@@ -1,0 +1,1 @@
+# KELS-app-slo-verzija
